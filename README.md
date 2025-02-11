@@ -29,7 +29,7 @@ When a podcast app is ready to download or stream a new episode, it generates a 
 <br>
 
 ## I Have an App or Service, How Do I Implement ULIDs?
-Our suggested implementation is straight forward, and is intended to be used the same way across all apps and services which wish to support the ULID specification. It involves the use of the _ulid URL parameter, as described below.
+Our suggested implementation is straight forward, and is intended to be used the same way across all apps and services which wish to support the ULID specification. It involves the use of the `_ulid` URL parameter, as described below.
 
 <br>
 
