@@ -1,6 +1,6 @@
 # Universal Listen ID (ULID)
 
-<small>Version 1.2 by [Dave Jones](https://github.com/daveajones) & [Dan Benjamin](https://danbenjamin.com)</small><br>
+<small>Version 1.2 by [Dan Benjamin](https://danbenjamin.com), [Dave Jones](https://github.com/daveajones)</small><br>
 <small>February 1st, 2025</small>
 
 <br>
