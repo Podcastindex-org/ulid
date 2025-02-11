@@ -67,7 +67,7 @@ IP addresses reveal a lot of information about a listener. With just your IP add
 > IP addresses have, over time, become a treasure trove of PII (personally identifiable information). It’s truly startling how much you can know about
 > a person simply from their IP address. The fact that podcast stats rely so heavily on the same data point which is now in the crosshairs of powerful,
 > privacy minded platform builders, should wake up the entire industry.
-> <small>-- [Dave Jones, Podcastindex.org](https://blog.podcastindex.org/html/TimeToHangUptheEgosa-kFtkXVfBmdDVR1w34w3Q1x01WKSn9W.html)</small>
+> <small><br>--[Dave Jones, Podcastindex.org](https://blog.podcastindex.org/html/TimeToHangUptheEgosa-kFtkXVfBmdDVR1w34w3Q1x01WKSn9W.html)</small>
   
 Every time you download a podcast episode, your IP, and therefore your private information, is being stored, examined, analyzed, and recorded. A profile about you is being built, slowly, every time you listen.
 
