@@ -37,7 +37,7 @@ Our suggested implementation is straight forward, and is intended to be used the
 When your app requests a stream or download of a podcast episode, it should perform the following steps:
 
 1. Generate a new case-insensitive 128-bit string in the standard UUIDv4 format, such as: `43b811dc-3697-4361-85ef-489bf9bf2deb`
-2. Append the GUID as a URL parameter named _ulid to the first full download request, or the first streaming range request the app makes for a specific episode’s audio file. Here's an example:
+2. Append that string as a URL parameter named `_ulid` to the download request, or streaming range request the app makes for a specific episode’s audio file. Here's an example:
    `GET https://example.com/path/to/audio.mp3?_ulid=43b811dc-3697-4361-85ef-489bf9bf2deb`
 3. When the download is deleted, the stream is completed or 10 days has elapsed, throw the ULID away. If addional downloads are initiated, a new ULID value is created, attached, and then discarded in the same fashion.
 
