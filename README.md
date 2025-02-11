@@ -24,7 +24,7 @@ The best thing about ULIDs is that they are fully transparent to the podcast lis
 <br>
 
 ## How ULIDs Work
-When a podcast app is ready to download or stream a new episode, it generates a new ULID and sends it along as part of the request to download that episode, tagging the request in a globally unique way. The app then hangs on to that ULID for a maximum of 10 days (whichever is shorter) and sends it along with each subsequent request for that same episode.  When the listener deletes the episode or finishes the stream the app throws away that ULID forever, never to be used again.
+When a podcast app is ready to download or stream a new episode, it generates a new ULID and sends it along as part of the request to download that episode, tagging the request in a globally unique way. The app then hangs on to that ULID for a maximum of 10 days and sends it along with each subsequent request for that same episode.  When the listener deletes the episode or finishes the stream (or if 10 days has passed) the app throws away that ULID forever, never to be used again.
 
 <br>
 
