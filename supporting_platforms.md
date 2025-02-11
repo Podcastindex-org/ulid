@@ -7,3 +7,4 @@ This is a list of podcasting platforms that currently self identify as supportin
 
 * [Podcast Index](https://podcastindex.org)
 * [Godcaster.fm](https://godcaster.fm)
+* [CurioCaster](https://curiocaster.com/)
