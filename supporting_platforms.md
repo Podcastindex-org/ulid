@@ -1,2 +1,2 @@
-Podcastindex.org
-Godcaster.fm
+- [Podcast Index](https://podcastindex.org)
+- [Godcaster.fm](https://godcaster.fm)
