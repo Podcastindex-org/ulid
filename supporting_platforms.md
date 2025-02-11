@@ -1,0 +1,2 @@
+Podcastindex.org
+Godcaster.fm
