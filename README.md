@@ -8,7 +8,7 @@
 ## Introducing ULIDs
 A Universal Listen ID (ULID) is a simple way to get accurate and trustworthy download, stream, and subscriber counts for podcasts without compromising privacy or paying exorbitant fees to financially motivated corporations. ULIDs are private and fully transparent by design, create zero overhead, and are easy to implement for both podcast hosts and apps.
 
-If your hosting service or podcast app supports ULIDs, please let us know. We are currently building lists of supporting apps and services for publication here.  Just submit a pull request!
+If your hosting service or podcast app supports ULIDs, please let us know. We are currently building lists of supporting apps and services for publication [here](supporting-platforms.md).  Just submit a pull request!
 
 <br>
 
